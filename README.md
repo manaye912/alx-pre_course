@@ -1,1 +1,1 @@
-My first readme this is my first work
+i am ALX software engineer and this is my first git hub project
